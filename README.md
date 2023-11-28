@@ -4,7 +4,7 @@
 #### 사용자 맞춤 맥주 추천 플랫폼
 #### SSFAY 9기 특화 프로젝트 - 빅데이터(추천)
 
-    
+​    
 
 ## 👨‍👩‍👧‍👦팀원 소개
 **정승구** : Back-End / Dev-Ops / Leader
@@ -46,7 +46,7 @@
 
 **Cooperation & Communication**
 
-<img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat" alt="GitLab" height="30"/> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat" alt="Jira" height="30"/> <img src="https://img.shields.io/badge/-Mattermost-0072C6?logo=mattermost&logoColor=white&style=flat" alt="Mattermost" height="30"/> 	<img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat" alt="Notion" height="30"/>
+<img src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat" alt="GitLab" height="30"/> <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat" alt="Jira" height="30"/> <img src="https://img.shields.io/badge/-Mattermost-0072C6?logo=mattermost&logoColor=white&style=flat" alt="Mattermost" height="30"/> <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat" alt="Notion" height="30"/>
 
 
 
@@ -72,32 +72,27 @@
     - #### 맥주 도감 기능: 
         사용자가 리뷰를 남긴 맥주를 확인하여, 국내 유통 맥주를 기준으로 도감 기능 제공
 
- 
-    
+
+​    
 
 
 # 💁개발 방식 및 결과
 
 ## 🧱 서비스 아키텍처
-![sulleongArchitecture](/uploads/ef1ab64ca7795097564805f1d93264a4/sulleongArchitecture.png)
+![sulleongArchitecture](https://github.com/brorica/sulleong-sulleong/assets/7845568/ab893251-e4b9-41c2-b7f0-4875059e2d81)
 
 ## CI/CD 순서도
-![ci_cdflowchart](/uploads/c5c2934c57dba0984027832915800d6c/ci_cdflowchart.png)
+![ci_cdflowchart](https://github.com/brorica/sulleong-sulleong/assets/7845568/ef1d6075-8005-494b-8bd3-2af56102ca9c)
 
 ## 🎩 화면 설계서
-![로그인화면](/uploads/5e1ebd2b67458bb622fef66a78d4229b/로그인화면.png)
-![메인화면](/uploads/23b5f17d903e5a42ad7cf1a555bf37da/메인화면.png)
-![검색화면](/uploads/2dbfb677f286934453600a453e4dc2ff/검색화면.png)
-![맥주_상세페이지](/uploads/24866bd67115b438ef21104f48f4b5a0/맥주_상세페이지.png)
-![맥주_도감_페이지](/uploads/e8e818cb66e407e809027d99d3e87f50/맥주_도감_페이지.png)
-![맥주추천목록](/uploads/28de2dc54bbf51fc589966954d52c65e/맥주추천목록.png)
-![설문조사_페이지](/uploads/340bc7b48d54945c635600c84fc63e8c/설문조사_페이지.png)
+![로그인화면](https://github.com/brorica/sulleong-sulleong/assets/7845568/b7d510b1-4383-4bb3-b31a-b09a96551e72)
+![메인화면](https://github.com/brorica/sulleong-sulleong/assets/7845568/190852b7-f6ee-4436-a2d4-920b0a7548af)
+![검색화면](https://github.com/brorica/sulleong-sulleong/assets/7845568/590c3212-b745-49c7-a7f3-4ea14aec8f70)
+![맥주_상세페이지](https://github.com/brorica/sulleong-sulleong/assets/7845568/6efa3603-1f15-4633-8408-5a2674f3d849)
+![맥주_도감_페이지](https://github.com/brorica/sulleong-sulleong/assets/7845568/115e9f83-d8d9-4461-9395-27794d49a8a2)
+![맥주추천목록](https://github.com/brorica/sulleong-sulleong/assets/7845568/3131b233-f6b4-4bf8-b72e-6dc13e4f2137)
+![설문조사_페이지](https://github.com/brorica/sulleong-sulleong/assets/7845568/8fc7a5e5-27ba-4934-8812-30083122f6cb)
 
 ## 🎨 DB ERD
-![erd](/uploads/6aac82af03501bb2841c5c931b7c3a1f/erd.png)
-
-
-## 📬 API 명세서
-![API명세서](/uploads/c00ad6282f04c712b1e8651db5a0e7e6/API명세서.png)
-
+![erd](https://github.com/brorica/sulleong-sulleong/assets/7845568/f2d5d6a2-bcae-4f30-94d5-55061f65cabf)
 
