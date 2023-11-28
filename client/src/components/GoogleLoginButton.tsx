@@ -9,7 +9,7 @@ function GoogleLoginButton() {
 			const oauth2Endpoint = 'https://accounts.google.com/o/oauth2/v2/auth';
 			const params = {
 				client_id:
-					'681159939854-mbkio13ft80rtf962te4vj5ni8mhgh1c.apps.googleusercontent.com',
+					`${process.env.REACT_CLIENT_ID}`,
 				redirect_uri: `${process.env.REACT_APP_LOGIN_URL}`,
 				// redirect_url: 'https://dev.sulleong.site/login/google',
 				response_type: 'code',

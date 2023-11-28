@@ -24,8 +24,8 @@ import java.util.Map;
 public class OauthService {
 
     private final String GOOGLE_OAUTH_URL = "https://oauth2.googleapis.com/token";
-    private final String CLIENT_ID = "681159939854-mbkio13ft80rtf962te4vj5ni8mhgh1c.apps.googleusercontent.com";
-    private final String CLIENT_SECRET = "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";
+    private final String CLIENT_ID = "";
+    private final String CLIENT_SECRET = "";
     @Value("${spring.google.redirect-uri}")
     private String REDIRECT_URI;
 
